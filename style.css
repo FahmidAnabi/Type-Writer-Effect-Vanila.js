@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+    font-family: 'Righteous', cursive;
+    height: 100vh;
+    background: #333 url('bg.jpg') no-repeat center center / cover;
+    color: #ccc;
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    
+}
